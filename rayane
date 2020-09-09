@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RYM HAKIKI</title>
+	<meta charset="utf-8">
+</head>
+<style>
+	#p1{
+		font-family: bold ;
+		text-align: center;  text-shadow:1px 1px #777;
+		font-size: 30px
+	}
+	body{
+		background-color: #C8AD7F;
+		
+	}
+	aside{
+		height:	700px;
+		 float:left;
+	}
+	summary::-webkit-details-marker{
+		display: none;
+	}
+	#s1:after{
+		content: "*";
+		float: left;
+		font-size: 20px ;
+		margin:  5px 5px 5px 0 ;
+		padding: 0 ;
+		font-weight: bold;
+		text-align: center;
+		width: 10px
+	}
+	#s1{
+		font-family: amiri ;
+		font-size: 30px;
+		margin:  5px 5px 0 150px ;
+		padding: 10px ;
+
+	}
+	#s2:after{
+		content: "*";
+		float: left;
+		font-size: 20px ;
+		margin:  5px 5px 5px 0 ;
+		padding: 0 ;
+		font-weight: bold;
+		text-align: center;
+		width: 10px
+	}
+	#s2{
+		font-family: bold ;
+		font-size: 30px;
+		margin:  5px 5px 0 150px ;
+		padding: 10px ;
+
+	}
+	#s3:after{
+		content: "*";
+		float: left;
+		font-size: 20px ;
+		margin:  5px 5px 5px 0 ;
+		padding: 0 ;
+		font-weight: bold;
+		text-align: center;
+		width: 10px
+	}
+	#s3{
+		font-family: bold ;
+		font-size: 30px;
+		margin:  5px 5px 0 150px ;
+		padding: 10px ;
+	}
+	#aud{
+		width: 400px;
+		height: 20px;
+	}
+	#par{
+		font-size: 20px;
+		margin:  5px 5px 0 100px ;
+		padding: 5px ;
+	}
+	#bio1{
+		font-size: 21px;
+		margin:  5px 5px 0 50px ;
+		padding: 10px ;
+	}
+	ul{
+			list-style-type: none;
+			margin:  5px 5px 0 130px ;
+		}
+		li{
+			margin: 20px ;
+		}
+	li a{
+			color: black ;font-size: 17px; font-variant : small-caps;
+			text-decoration: none ;
+			width: 180px;height: 22px ;
+			border-radius: 10px ;
+		}
+</style>
+<body id="backgroundAnimation">
+	<header>
+		<table style="width: 100%;border: 0;">
+			<tr>
+				<td width="5%"> <img src="rym.jpg" width="120px"> </td>
+				<td width="90%">
+				<p id="p1"> سلطانة الطرب الأندلسي</p>
+				<p id="p1"> RYM HAKIKI</p>
+				<p id="p1">ريــــم حـــقيــــقــي</p>
+				</td>
+				<td width="5%" align="center">
+					<a href="https://www.facebook.com/Rym.Hakiki.Officielle/"><img src="facebook.png" width="40px"></a><br><br>
+					<a href="https://instagram.com/rymhakikiofficielle?igshid=1t9zg6er9m0c4"><img src="instagram.jpg" width="35px"></a><br><br>
+					<a href="https://www.youtube.com/channel/UCPyNdP1xqCPaFiZ8VxjaPGQ"><img src="youtube.jpg" width="40px"></a><br>
+				</td>
+			</tr>
+		</table>
+		<center>
+			<nav style="background-color: #2F1E0E;">
+				<ul align="center">
+					    <li style="display:inline"></a>&nbsp</li> 
+						<li style="display:inline"></a>&nbsp</li>
+						<li style="display:inline"></a>&nbsp</li>
+						<li style="display:inline"></li>
+				</ul>
+		    </nav>
+	    </center>
+	 </header>
+		<aside >
+			<br><img src="rym2.jpg" width="120px"><br><br>
+			<img src="rym3.jpg" width="120px"><br><br>
+			<img src="rym4.jpg" width="120px">
+		</aside>
+		<br><br>
+		<div id="d1">
+			<details>
+				<summary id="s1">Biographie</summary>
+				<table>
+					<tr>
+						<td width="80%">
+							<p id="bio1">Rym Hakiki, star de la chanson algérienne, une diva de la musique arabo-andalouse et du hawzi. A 8 ans elle rejoint l’école musicale NASSIM AL ANDALOUS d’ORAN.Elle est très vite repérée grâce à son timbre de voix et à ses capacités et techniques vocales, elle se présente en véritable nouvelle enfant prodige de la chanson arabo-andalouse .c’est avec un répertoire étendu qu’elle sort dés l’âge de 16 ans son premier album YA OULD EL NASS ainsi que MAL HBIBI MALOU et KHAYEF LA CHEMISSA, Ces succès qui ont fait renaître la musique algérienne et ont démontré les talents d’une artiste prodigieuse. Désormais, connue et reconnue par son charisme et son talent de vocaliste, Rym Hakiki enchaîne les enregistrements d’albums. Le plus célèbre et sans doute l’album de la consécration, « SABRA » vendu à plus d’un million d’exemplaires. Aujourd’hui, surnommée la nouvelle merveille de la chanson andalouse, Rym Hakiki est la pionnière d’un nouvel air musical et d’un valeureux héritage traditionnel, avec sa voix dégageant chaleur et douceur à la fois, elle incarne la culture algérienne à travers le monde, et de par son souffle contemporain, attise passionnément les braises de la tradition. Elle a représenté l'Algérie lors de diverses manifestations culturelles dans le monde arabe ainsi qu'en occident. Ses derniers travaux musicaux sont l'élaboration d'un coffret de Cd regroupant des "Noubas" issues du patrimoine classique Arabo-andalous ainsi que des quassaides dans "le Madih". À la fin de l'année 2014 Rym Hakiki a renoué avec la variété avec la sortie de son dernier album très attendu par les fans de la chanteuse, "Hessebtek Fehal" est le titre de ce nouvel opus disponible chez tous les disquaires et qui a reçu un excellent accueil de la part du public, en 2020 L'éblouissante Rym Hakiki sort un magnifique nouvel album spécial Mdih
+							
+						    </p>
+					    </td>
+						<td width="20%"></td>
+					</tr>
+				</table>
+			</details>
+		</div><br><br><br>
+		<div>
+			<details>
+				<summary id="s2">Musique</summary>
+				<table>
+						<tr>
+						<td width="45%" align="left"> 
+							<p id="par">rym hakiki madih dini 2 (2020)</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="rym hakiki madih dini 2 (2020).mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">rym hakiki madih 1 ( 2020 )</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="rym hakiki madih 1 ( 2020 ).mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Bilal Sghir Duo Cheb Reda - Algerie Mi Amor </p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Bilal Sghir Duo Cheb Reda - Algerie Mi Amor.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki - Béqay bé Slama(MP3_160K)</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki - Béqay bé Slama(MP3_160K).mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki Nouba Rasd Dil</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki Nouba Rasd Dil.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki Khial Mouni</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki Khial Mouni.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki تلمسان يا حمام - Tlemcen Ya Hmam</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki تلمسان يا حمام - Tlemcen Ya Hmam.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki At Tarchoun </p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki At Tarchoun.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki ياربي زورة</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki ياربي زورة.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki الوصية - El Ouassia</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki الوصية - El Ouassia.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">09. Subhan Rabi Li Sawar</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="09. Subhan Rabi Li Sawar.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">08. Mabrouk Ala L3arssan</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="08. Mabrouk Ala L3arssan.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">07. Ah Loukane Soghri Ywelili</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="07. Ah Loukane Soghri Ywelili.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">06. 3ib Alik Aaditni</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="06. 3ib Alik Aaditni.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">05. Kawi La9loub</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="05. Kawi La9loub.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">04. 9olhali o Rayahli Bali</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="04. 9olhali o Rayahli Bali.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">03. Tafrat Fiya Ana Habit</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="03. Tafrat Fiya Ana Habit.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="40%" align="left"> 
+							<p id="par">02. Hbibi Li Nehwah</p>
+						</td>
+						<td width="40%" align="center" >
+						<audio id="aud" controls autoplay loop>
+							<source src="02. Hbibi Li Nehwah.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="20%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">01. Hsebtek Fhal</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="01. Hsebtek Fhal.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rai2015.com_06._Win_N'sibek</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rai2015.com_06._Win_N'sibek.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rai2015.com_04._El_Ouchame</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rai2015.com_04._El_Ouchame.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rai2015.com_03._Siadi_Ouana_F'ardkoum</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rai2015.com_03._Siadi_Ouana_F'ardkoum.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">07. Mal Hbibi Malou</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="07. Mal Hbibi Malou.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">Rym Hakiki - Ya Marhaba</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="Rym Hakiki - Ya Marhaba.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">04. Khaif La Chmissa</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="04. Khaif La Chmissa.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">01. Alala YA Ghzali</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="01. Alala YA Ghzali.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">02- el kaoui</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="02- el kaoui.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">03- ya daw ayani</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="03- ya daw ayani.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="40%" align="left"> 
+							<p id="par">01- aji ya nouah</p>
+						</td>
+						<td width="40%" align="center" >
+						<audio id="aud" controls autoplay loop>
+							<source src="01- aji ya nouah.MP3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="20%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">08. Jat Lalla Laaroussa</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="08. Jat Lalla Laaroussa.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">07. Khaliouni Meni Lih</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="07. Khaliouni Meni Lih.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">06. Barkana Menkoum </p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="06. Barkana Menkoum.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">05. Ana Twiri</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="05. Ana Twiri.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">04. Men Frak Hbibi</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="04. Men Frak Hbibi.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="40%" align="left"> 
+							<p id="par">02. Ya Ochak Zine</p>
+						</td>
+						<td width="40%" align="center" >
+						<audio id="aud" controls autoplay loop>
+							<source src="02. Ya Ochak Zine.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="20%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="40%" align="left"> 
+							<p id="par">01. Habibi</p>
+						</td>
+						<td width="40%" align="center" >
+						<audio id="aud" controls autoplay loop>
+							<source src="01. Habibi.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="20%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">05. Telephone</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="05. Telephone.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">04. Yael Layem</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="04. Yael Layem.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">03. Oulfi</p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="03. Oulfi.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="40%" align="left"> 
+							<p id="par">02. Ghrib Ou Barani</p>
+						</td>
+						<td width="40%" align="center" >
+						<audio id="aud" controls autoplay loop>
+							<source src="02. Ghrib Ou Barani.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="20%" align="center"></td>
+					</tr>
+					<tr>
+						<td width="45%" align="left"> 
+							<p id="par">01.Sabra </p>
+						</td>
+						<td width="50%" align="center" >
+						<audio id="aud" controls autoplay loop >
+							<source src="01. Sabra.mp3" type="audio/mpeg">
+						</audio>
+					    </td>
+						<td width="5%" align="center"></td>
+					</tr>
+
+					
+				</table>
+			</details>
+		</div><br><br><br>
+		<div>
+			<details>
+				<summary id="s3">Vidéo</summary>
+				<ul>
+					<li ><a href="https://youtu.be/eoVwYg56wtw">بيت القصيد | الفنانة الجزائرية ريم حقيقي | 2018-05-05</a></li>
+					<li><a href="https://youtu.be/l7XKTrbxpUY">ANDALOUSSIATES EL DJAZAIR 2018 RYM HAKIKI</a></li>
+					<li><a href="https://youtu.be/iajMYOqLsak">FESTIVAL MAGHREBIN 2015 RYM HAKIKI</a></li>
+					<li><a href="https://youtu.be/79Gwg4upAl0">RYME HAKIKI EN CONCERT SALLE IBN ZEYDOUN</a></li>
+					<li><a href="https://youtu.be/YioV0h_Wn2I">RYM HAKIKI EN CONCERT A LA SALLE IBN KHELDOUN ALGER</a></li>
+					<li><a href="https://youtu.be/LZdnsuHBH5o">ريم حقيقي-يا عشاق الزين-rym hakiki-ya 3ochak zine</a></li>
+					<li><a href="https://youtu.be/Pp9rLUgubHE">Rym Hakiki 2M Maroc noevent 2014 ريم حقيقي الجزائرية</a></li>
+					<li><a href="https://youtu.be/N-5CsNc02wk">ريم حقيقي انا الكاوي - Rym Hakiki Ana El Kawi</a></li>
+					<li><a href="https://youtu.be/aF1rGNT1GO8">rym hakiki - sidi Boumediene</a></li>
+					<li><a href="https://youtu.be/Ey7gxfuYK1Y">ريم حقيقي- يا واسع المخازن Rym Hakiki - ya wasaa el mkhazen</a></li>
+					<li><a href="https://youtu.be/4p50B2cpclM">ريم حقيقي - بديت بإسم الغاني Rym Hakiki - bdit b ism el'ghani</a></li>
+					<li><a href="https://youtu.be/hOIoaCkHqvc">ريم حقيقي - الحرم يا رسول الله Rym Hakiki - el horm ya rassoul-ellah</a></li>
+					<li><a href="https://youtu.be/5pvMyD0hE64">ريم حقيقي - عشقي و غرامي Rym Hakiki - aaechki w ghrami</a></li>
+					<li><a href="https://youtu.be/8cYfFpZUL1E">RYM HAKIKI A MBC LE 21 DECEMBRE 2014</a></li>
+					<li><a href="https://youtu.be/xjfhYYNegc4">حفل اختتام المهرجان العربي للإذاعة والتلفزيون</a></li>
+					<li><a href="https://youtu.be/yF7vAafiYPM">بدون تأشيرة | سفيرة الزيانيين .. الفنانة ريم حقيقي تعيد الزمن الجميل للفن الجزائري</a></li>
+					<li><a href="https://youtu.be/29uWWqNbur4">Nassim El Andalous_Madih_RTA d'Oran (1996)</a></li>
+				</ul>
+			</details>
+		</div>
+
+</body>
+</html>
